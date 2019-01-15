@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelTest2", "PanelTest2\PanelTest2.csproj", "{AD24D46B-A0E4-4DAD-AD3F-16D57929A26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD24D46B-A0E4-4DAD-AD3F-16D57929A26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD24D46B-A0E4-4DAD-AD3F-16D57929A26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD24D46B-A0E4-4DAD-AD3F-16D57929A26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD24D46B-A0E4-4DAD-AD3F-16D57929A26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407BBB71-A1C7-4896-8DBE-D62480FC30CC}
+	EndGlobalSection
+EndGlobal
